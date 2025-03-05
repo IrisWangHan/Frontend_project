@@ -1,3 +1,12 @@
+使用方式與安裝步驟請參考: 
+https://hackmd.io/@uoz4pZdVTOKM3B4Wd8TH1A/SJWWyhSi1e
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
